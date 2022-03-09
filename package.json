@@ -1,5 +1,5 @@
 {
-  "name": "@sveltejs/adapter-static",
+  "name": "svelte-adapter-wordpress",
   "version": "1.0.0-next.29",
   "repository": {
     "type": "git",
