@@ -4,7 +4,7 @@
 
 ## Usage
 
-Install with `npm i -D @sveltejs/adapter-static@next`, then add the adapter to your `svelte.config.js`:
+Install with `yarn i -D @sveltejs/adapter-static@next`, then add the adapter to your `svelte.config.js`:
 
 ```js
 // svelte.config.js
